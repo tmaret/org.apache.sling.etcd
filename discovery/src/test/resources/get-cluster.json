@@ -1,0 +1,9 @@
+{"action":"get","node":{"key":"/discovery/cluster","dir":true,"nodes":[
+  {"key":"/discovery/cluster/246","value":"","modifiedIndex":246,"createdIndex":246},
+  {"key":"/discovery/cluster/247","value":"","modifiedIndex":247,"createdIndex":247},
+  {"key":"/discovery/cluster/248","value":"","modifiedIndex":248,"createdIndex":248},
+  {"key":"/discovery/cluster/249","value":"","modifiedIndex":249,"createdIndex":249},
+  {"key":"/discovery/cluster/250","value":"","modifiedIndex":250,"createdIndex":250},
+  {"key":"/discovery/cluster/251","value":"","modifiedIndex":251,"createdIndex":251},
+  {"key":"/discovery/cluster/252","value":"","modifiedIndex":252,"createdIndex":252}
+],"modifiedIndex":246,"createdIndex":246}}

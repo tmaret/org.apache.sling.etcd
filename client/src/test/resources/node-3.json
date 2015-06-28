@@ -1,0 +1,20 @@
+{
+  "createdIndex": 2,
+  "dir": true,
+  "key": "/queue",
+  "modifiedIndex": 2,
+  "nodes": [
+    {
+      "createdIndex": 2,
+      "key": "/queue/2",
+      "modifiedIndex": 2,
+      "value": "Job1"
+    },
+    {
+      "createdIndex": 3,
+      "key": "/queue/3",
+      "modifiedIndex": 3,
+      "value": "Job2"
+    }
+  ]
+}

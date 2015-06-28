@@ -1,0 +1,8 @@
+{
+  "createdIndex": 5,
+  "expiration": "2013-12-04T12:01:21.874888581-08:00",
+  "key": "/foo",
+  "modifiedIndex": 5,
+  "ttl": 5,
+  "value": "bar"
+}

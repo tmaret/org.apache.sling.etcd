@@ -1,0 +1,1 @@
+{"name":"c2","id":"7e3bd17c66e004e8","state":"StateFollower","startTime":"2015-05-09T15:50:33.022622463+02:00","leaderInfo":{"leader":"324473db0474a678","uptime":"8h7m13.504300576s","startTime":"2015-05-09T15:50:33.779798127+02:00"},"recvAppendRequestCnt":59475,"recvPkgRate":2.0618810371279017,"recvBandwidthRate":245.0030142367229,"sendAppendRequestCnt":0}
